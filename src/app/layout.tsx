@@ -11,8 +11,8 @@ import { Lato } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Jakk Flower Studio | Elegant Floral Arrangements',
-  description: 'Discover bespoke floral arrangements at Jakk Studio. Fresh, hand-picked flowers designed for your special moments.',
+  title: "Hello",
+  description: "World",
   openGraph: {
     "title": "Jakk Flower Studio",
     "description": "Exquisite flowers for every occasion.",
