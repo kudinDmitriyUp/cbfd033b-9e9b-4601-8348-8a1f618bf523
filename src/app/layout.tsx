@@ -11,7 +11,7 @@ import { Lato } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: "Hello",
+  title: "Hello Jaja",
   description: "World",
   openGraph: {
     "title": "Jakk Flower Studio",
